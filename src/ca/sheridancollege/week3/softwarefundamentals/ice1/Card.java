@@ -14,6 +14,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1;
  * add your name as a modifier.
  * @author dancye
  * @modifier Megha Patel
+ * @modifier Sarim Iqbal 
 */
 public class Card {
 
@@ -23,7 +24,7 @@ public class Card {
    public static final String [] SUITS = {"Hearts", "Diamonds", "Spades", "Clubs"};
     /**
      * @return the suit
-     */
+         */
     public String getSuit() {
         return suit;
     }
